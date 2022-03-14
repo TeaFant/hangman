@@ -1,0 +1,17 @@
+.quote {
+  padding-top: 30px;
+  font-size: 30px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: center;
+}
+.quote-li {
+  margin: 5px;
+  list-style: none;
+}
+.quote-div {
+  border-bottom: 3px solid black;
+  width: 30px;
+  margin: 5px;
+}
